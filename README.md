@@ -13,7 +13,7 @@ The program provides two conversions:
 * Convert total seconds into hours, minutes, and seconds.
 * Convert hours, minutes, and seconds into total seconds.
 
-The project uses a class named `timeconverter` with two member functions:
+The project uses a class named `TimeConverter` with two member functions:
 
 * `sectohms()` – Converts seconds into hours, minutes, and seconds.
 * `hmstosec()` – Converts hours, minutes, and seconds into total seconds.
@@ -76,8 +76,6 @@ Then run the program:
 ## Project Structure
 
 ```text
-time-converter/
-│
 ├── main.cpp
 ├── README.md
 └── output.png
@@ -85,7 +83,7 @@ time-converter/
 
 ## Screenshots
 
-time-converter/output.png
+![Time Converter Output]{output.png}
 
 ## Future Improvements
 

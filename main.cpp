@@ -2,7 +2,7 @@
 #include<string>
 using namespace std;
 
-class timeconverter
+class TimeConverter
 {
     public:
     void sectohms(){
@@ -44,7 +44,7 @@ class timeconverter
 };
 
 int main(){
-    timeconverter tc;
+    TimeConverter tc;
     tc.sectohms();
     tc.hmstosec();
 
