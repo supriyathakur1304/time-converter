@@ -83,7 +83,7 @@ Then run the program:
 
 ## Screenshots
 
-![Time Converter Output]{output.png}
+![Time Converter Output](output.png)
 
 ## Future Improvements
 
